@@ -11216,11 +11216,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MVC\\NodeApplication\\NodeApplication.csproj",
+      "projectUniqueName": "D:\\MVC\\AssignmentLemonTech\\NodeApplication\\NodeApplication.csproj",
       "projectName": "NodeApplication",
-      "projectPath": "D:\\MVC\\NodeApplication\\NodeApplication.csproj",
+      "projectPath": "D:\\MVC\\AssignmentLemonTech\\NodeApplication\\NodeApplication.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\MVC\\NodeApplication\\obj\\",
+      "outputPath": "D:\\MVC\\AssignmentLemonTech\\NodeApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

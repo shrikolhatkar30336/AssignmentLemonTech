@@ -28,6 +28,7 @@ namespace NodeApplication.Controllers
             return View(activeNodes);
         }
 
+        
         // GET: Nodes
         public async Task<IActionResult> Index()
         {
@@ -65,8 +66,7 @@ namespace NodeApplication.Controllers
         }
 
         // POST: Nodes/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("NodeId,NodeName,ParentNodeId,IsActive,StartDate")] Node node)
@@ -97,8 +97,7 @@ namespace NodeApplication.Controllers
         }
 
         // POST: Nodes/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("NodeId,NodeName,ParentNodeId,IsActive,StartDate")] Node node)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aWALq55awvXHjg4+G/+Toy0ltWqGcCIJuqOUj+gnlF2BXB/J/trM+DP5g6aMmduU23W4o7fx/l8Oa/DqEbmSUw==",
+  "dgSpecHash": "ZtCLlh7BolR7awFCZfITwl2roQHS7dQQQ3rZ31YG6bkeVntLtx3859OXYYXPmkZ7krxSJg/wcqTBcCT+EiV3pg==",
   "success": true,
-  "projectFilePath": "D:\\MVC\\NodeApplication\\NodeApplication.csproj",
+  "projectFilePath": "D:\\MVC\\AssignmentLemonTech\\NodeApplication\\NodeApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
